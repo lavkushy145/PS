@@ -1,0 +1,47 @@
+body{
+  background-color: black;
+}
+.App {
+  text-align: center;
+  color: black;
+  font-weight: 700;
+  max-width: 50%;
+  text-align: center;
+  margin-left: 22%;
+  margin-top: 7%;
+  border: 2px solid;
+  padding: 10px 50px;
+  background-color: antiquewhite;
+  border-radius: 50px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Form{
+  max-width: 20%;
+  margin-left: 35%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.Form input{
+  padding: 5px 10px;
+  border-radius: 50px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border: none;
+}
+.Form label{
+  padding: 10px 20px;
+  border-radius: 50px;
+  border: none;
+  margin-left: -32%;
+}
+.submit input{
+  padding: 10px 20px;
+  margin-left: 32%;
+  margin-top: 10%;
+  border-radius: 50px;
+  background-color: black;
+  font-weight: 700;
+  font-size: 20px;
+  color: azure;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
